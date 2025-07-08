@@ -4,7 +4,7 @@ import io.restassured.RestAssured;
 
 import java.util.Scanner;
 
-public class API_Testing001 {
+public class API_Testing001_User_input {
     public static void main(String[] args) {
         // Gherkins Syntax
         // Given() -> Pre Req. - URL, Headers, Auth, Body....
